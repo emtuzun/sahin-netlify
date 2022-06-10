@@ -78,3 +78,8 @@ html {
     min-height: 800px;
   }
 }
+
+#yazi2 span {
+  font-size: large;
+  font-style: italic;
+}
